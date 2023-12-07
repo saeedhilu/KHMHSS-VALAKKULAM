@@ -4,7 +4,7 @@ body{
 }
 .container{
     height: 120px;
-    background-image: url(shutterstock_1263201358-2280x1282.jpg);
+    background-image: url(image/shutterstock_1263201358-2280x1282.jpg);
     display: flex;
 }
 #global{
@@ -351,4 +351,24 @@ border-color: #17a2b8;
     .glob1{
         margin-left: 50px;
     }
-   
+    .portion{
+        display: flex;
+        justify-content: space-around;
+
+    }
+    #is,.searchh{
+        display: flex;
+    }
+    .ic{
+        margin-left: 60px;
+        margin-top: 60px;
+    }
+    .honor,.no{
+        margin-top: 70px;
+    }
+    #im1,#im{
+        height: 130px;
+        width: 100px;
+        margin-top: 60px;
+    }
+    
